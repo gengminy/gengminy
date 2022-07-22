@@ -24,7 +24,7 @@
   #### 📌 Programming Languages
   ![image](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
   ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-  ![image](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
+  ![image](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 
   ![image](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
   ![image](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -74,6 +74,7 @@
 
   <a href="https://github.com/gengminy">![image](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)</a>
   <a href="https://www.instagram.com/gengminy">![image](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)</a>
+  <a href="https://gengminy.tistory.com/">![image](https://img.shields.io/badge/Tistory-184D66?style=flat-square&logo=Telegraph&logoColor=white)</a>
 
   <br>
 
