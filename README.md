@@ -1,4 +1,4 @@
-<div align=start>
+<div align=center>
 
   ## 🧑 Comment 
 
@@ -8,7 +8,7 @@
 
   ## 🗓 History 
 
-  <div align=start>
+  <div align=center>
 
   <li>홍익대학교 컴퓨터공학과 <sub>(2018.03 ~)</sub></li>
   <li>École 42 in Seoul (42Seoul) Cadet <sub>(2022.03 ~)</sub></li>
