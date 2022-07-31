@@ -1,6 +1,6 @@
 <div align=left>
 
-  ## 🧑 Comment 
+  ## 👨‍💻 Comment 
 
   안녕하세요 홍익대학교 3학년 재학중인 주니어 개발자 노경민(gengminy)입니다😀
 
