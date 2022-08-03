@@ -11,7 +11,7 @@
   <div align=left>
 
   <li>홍익대학교 컴퓨터공학과 <sub>(2018.03 ~)</sub></li>
-  <li>École 42 in Seoul (42Seoul) Cadet <sub>(2022.03 ~)</sub></li>
+  <li>École 42 (42Seoul) Cadet <sub>(2022.03 ~)</sub></li>
   <li>칵테일 추천 모바일 어플리케이션 <a href="https://github.com/cocktail-Ohzu/Ohzu-FrontEnd">오쥬</a> FE, App Developer <sub>(2022.01 ~)</sub></li>
   <li>홍익대학교 컴퓨터공학과 밴드학회 <a href="https://github.com/Gosrock">고스락</a> 공연 티켓 예매 웹 서비스 <a href="https://github.com/Gosrock/Ticket-Backend-21th">1차</a> BE <sub>(2022.01 ~ 2022.03)</sub></li>
   <li>홍익대학교 컴퓨터공학과 밴드학회 <a href="https://github.com/Gosrock">고스락</a> 공연 티켓 예매 웹 서비스 <a href="https://github.com/Gosrock/Ticket-Backend-22th">2차</a> BE <sub>(2022.07 ~ 2022.08)</sub></li>
