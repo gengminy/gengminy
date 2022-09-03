@@ -16,6 +16,8 @@
   <li>홍익대학교 컴퓨터공학과 밴드학회 <a href="https://github.com/Gosrock">고스락</a> 공연 티켓 예매 웹 서비스 <a href="https://github.com/Gosrock/Ticket-Backend-21th">1차</a> BE <sub>(2022.01 ~ 2022.03)</sub></li>
   <li>홍익대학교 컴퓨터공학과 밴드학회 <a href="https://github.com/Gosrock">고스락</a> 공연 티켓 예매 웹 서비스 <a href="https://github.com/Gosrock/Ticket-Backend-22th">2차</a> BE <sub>(2022.07 ~ 2022.08)</sub></li>
   <li>앱 런칭 연합 동아리 CMC (Central Makeus Challenge) 11기 Server 파트 <sub>(2022.08 ~ )</sub></li>
+    <br>
+  🔍  <a href="https://innate-crabapple-406.notion.site/gengminy-7d1375d5388e484f86495ede93a1a55a">Notion 포트폴리오</a>
 
   <br><br>
 
