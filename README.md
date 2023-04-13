@@ -16,7 +16,8 @@
   <li>홍익대학교 컴퓨터공학과 밴드학회 <a href="https://github.com/Gosrock">고스락</a> 공연 티켓 예매 웹 서비스 <a href="https://github.com/Gosrock/Ticket-Backend-21th">1차</a> BE <sub>(2022.01 ~ 2022.03)</sub></li>
   <li>홍익대학교 컴퓨터공학과 밴드학회 <a href="https://github.com/Gosrock">고스락</a> 공연 티켓 예매 웹 서비스 <a href="https://github.com/Gosrock/Ticket-Backend-22th">2차</a> BE <sub>(2022.07 ~ 2022.08)</sub></li>
   <li><a href="https://www.makeus.in">CMC</a> (Central Makeus Challenge) 11기 : 지인 추천 기반 소개팅 앱 <a href="https://github.com/team-tiki-taka/naechinso-server">내친소</a> Server 파트 <sub>(2022.08 ~ 2022.11)</sub></li>
-  <li>소프트스퀘어드 - Gridge 소속 스프링 부트 백엔드 서버 외주 <sub>(2022.12 ~ 진행중)</sub></li>
+  <li>경기대학교 LMS 수쌤 웹, 어드민 백엔드 서버 외주 (private) <sub>(2022.12 ~ 2023.04)</sub></li>
+  <li>웹툰 여행자를 위한 종착역 웹툰 플랫폼 플레어즈 백엔드 서버 외주 (private) <sub>(2023.03 ~ 2023.07)</sub></li>
   <li>모두를 위한 새로운 공연 라이프, <a href="https://github.com/Gosrock/DuDoong-Backend">두둥</a> BE <sub>(2023.01 ~ 2023.04)</sub></li>
     <br>
   🔍  <a href="https://gengminy.notion.site/gengminy-7d1375d5388e484f86495ede93a1a55a">Notion 포트폴리오</a>
