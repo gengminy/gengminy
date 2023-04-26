@@ -6,25 +6,6 @@
 
   <br/>
 
-  ## 🗓 History 
-
-  <div align=left>
-
-  <li>홍익대학교 컴퓨터공학과 4학년 <sub>(2018.03 ~ 2024.03)</sub></li>
-    <li>École 42 (<a href="https://42seoul.kr/seoul42/main/view">42Seoul</a>) 본과정 Cadet <sub>(2022.03 ~ 2023.10)</sub></li>
-  <li>칵테일 추천 모바일 어플리케이션 <a href="https://github.com/cocktail-Ohzu/Ohzu-FrontEnd">오쥬</a> Web & App FE <sub>(2022.01 ~ 2022.09)</sub></li>
-  <li>홍익대학교 컴퓨터공학과 밴드학회 <a href="https://github.com/Gosrock">고스락</a> 공연 티켓 예매 웹 서비스 <a href="https://github.com/Gosrock/Ticket-Backend-21th">1차</a> BE <sub>(2022.01 ~ 2022.03)</sub></li>
-  <li>홍익대학교 컴퓨터공학과 밴드학회 <a href="https://github.com/Gosrock">고스락</a> 공연 티켓 예매 웹 서비스 <a href="https://github.com/Gosrock/Ticket-Backend-22th">2차</a> BE <sub>(2022.07 ~ 2022.08)</sub></li>
-  <li><a href="https://www.makeus.in">CMC</a> (Central Makeus Challenge) 11기 Server 파트 : 지인 추천 기반 소개팅 앱 <a href="https://github.com/team-tiki-taka/naechinso-server">내친소</a> BE <sub>(2022.08 ~ 2022.11)</sub></li>
-  <li>경기대학교 LMS 수쌤 웹, 어드민 백엔드 서버 외주 (private) <sub>(2022.12 ~ 2023.04)</sub></li>
-      <li>모두를 위한 새로운 공연 라이프, <a href="https://github.com/Gosrock/DuDoong-Backend">두둥</a> BE <sub>(2023.01 ~ 2023.04)</sub></li>
-  <li>웹툰 여행자를 위한 종착역 웹툰 플랫폼 플레어즈 백엔드 서버 외주 (private) <sub>(2023.03 ~ 2023.07)</sub></li>
-    <br>
-  🔍  <a href="https://gengminy.notion.site/gengminy-7d1375d5388e484f86495ede93a1a55a">Notion 포트폴리오</a>
-
-    
-  <br><br>
-
   ## 🛠 Tech Stacks 
 
   #### 📌 Frontend
@@ -60,6 +41,34 @@
 
 
   <br/>
+  
+  
+  ## 🗓 History 
+
+    
+    
+|기간|활동|
+|------|---|
+|2018.03 ~ 현재|홍익대학교 컴퓨터공학과 4학년 재학중|
+|2022.03 ~ 현재|École 42 ([42Seoul](https://42seoul.kr/seoul42/main/view)) 본과정 Cadet|
+|2022.01 ~ 2022.09|칵테일 추천 어플리케이션 [오쥬](https://github.com/cocktail-Ohzu/Ohzu-FrontEnd) Web & App 프론트엔드|
+|2022.01 ~ 2022.03|홍익대학교 컴퓨터공학과 밴드학회 [고스락](https://github.com/Gosrock) 공연 티켓 예매 웹 서비스 [1차](https://github.com/Gosrock/Ticket-Backend-21th) 백엔드|
+|2022.07 ~ 2022.08|홍익대학교 컴퓨터공학과 밴드학회 [고스락](https://github.com/Gosrock) 공연 티켓 예매 웹 서비스 [2차](https://github.com/Gosrock/Ticket-Backend-22th) 백엔드|
+|2022.08 ~ 2022.11|IT 연합동아리 [CMC](https://www.makeus.in) (Central Makeus Challenge) 11기 Server 파트|
+|2022.09 ~ 2022.12|지인 추천 기반 소개팅 앱 [내친소](https://github.com/team-tiki-taka/naechinso-server) 백엔드|
+|2022.12 ~ 2023.04|Gridge - 경기대학교 LMS 수쌤 Web & Admin 백엔드 서버 외주 (private)|
+|2023.01 ~ 2023.04|모두를 위한 새로운 공연 라이프, [두둥](https://github.com/Gosrock/DuDoong-Backend) 백엔드|
+|2023.03 ~ 현재|Gridge - 웹툰 여행자를 위한 종착역 웹툰 플랫폼, 플레어즈 백엔드 서버 외주 (private)|
+|2023.04 ~ 현재|IT 연합동아리 [YAPP](https://www.yapp.co.kr/) 22기 백엔드|
+
+<br/>
+  
+  
+  ## 📸 Portfolio
+<a href="https://gengminy.notion.site/gengminy-7d1375d5388e484f86495ede93a1a55a">![](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)</a>
+  
+  <br/>
+  
 
   ## 🔑 Algorithm 
 
