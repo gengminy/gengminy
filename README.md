@@ -9,26 +9,15 @@
   ## 🛠 Tech Stacks 
 
   #### 📌 Frontend
-  ![image](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![image](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-  ![image](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-  ![image](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-    
   ![image](	https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-  
-  ![image](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
   ![image](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 
   #### 📌 Backend
   ![image](https://img.shields.io/badge/Spring-6DB33F?style=flat-squaree&logo=spring&logoColor=white)
-  ![image](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat-square&logo=spring-boot)
-  ![image](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-
-  ![image](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-  ![image](https://img.shields.io/badge/nestjs-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-
+  ![image](https://img.shields.io/badge/Nestjs-D91313?style=flat-square&logo=nestjs&logoColor=white)
   ![image](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+  ![image](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
 
   ![image](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
