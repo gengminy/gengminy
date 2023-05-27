@@ -42,7 +42,7 @@
 |2022.09 ~ 2022.12|지인 추천 기반 소개팅 앱 [내친소](https://github.com/team-tiki-taka/naechinso-server) 백엔드|
 |2022.12 ~ 2023.04|경기대학교 LMS 수쌤 Web & Admin 백엔드 서버 외주 in Gridge (private)|
 |2023.01 ~ 2023.04|모두를 위한 새로운 공연 라이프, [두둥](https://github.com/Gosrock/DuDoong-Backend) 백엔드|
-|2023.03 ~ 현재|웹툰 여행자를 위한 종착역 웹툰 플랫폼, 플레어즈 백엔드 서버 외주 in Gridge (private)|
+|2023.03 ~ 2023.06|웹툰 여행자를 위한 종착역 웹툰 플랫폼, 플레어즈 백엔드 서버 외주 in Gridge (private)|
 |2023.04 ~ 현재|IT 연합동아리 [YAPP](https://www.yapp.co.kr/) 22기 백엔드|
 
 <br/>
