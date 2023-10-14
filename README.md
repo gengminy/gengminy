@@ -2,16 +2,11 @@
 
   ## 👨‍💻 Comment 
 
-  안녕하세요 홍익대학교 4학년 재학중인 개발자 노경민(gengminy)입니다😀
+  안녕하세요 홍익대학교 4학년 재학중인 백엔드 개발자 노경민(gengminy)입니다😀
 
   <br/>
 
   ## 🛠 Tech Stacks 
-
-  #### 📌 Frontend
-  ![image](	https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-  ![image](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
 
   #### 📌 Backend
   ![image](https://img.shields.io/badge/Spring-6DB33F?style=flat-squaree&logo=spring&logoColor=white)
@@ -21,7 +16,11 @@
 
   ![image](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
- 
+
+  #### 📌 Frontend
+  ![image](	https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+  ![image](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
 
 
   <br/>
