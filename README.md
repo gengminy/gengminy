@@ -2,7 +2,7 @@
 
   ## 👨‍💻 Comment 
 
-  안녕하세요 홍익대학교 4학년 재학중인 백엔드 개발자 노경민(gengminy)입니다😀
+  안녕하세요 백엔드 개발자 노경민(gengminy)입니다😀
 
   <br/>
 
@@ -32,7 +32,7 @@
     
 |기간|활동|
 |------|---|
-|2018.03 ~ 2024.02|홍익대학교 컴퓨터공학과 졸업 예정|
+|2018.03 ~ 2024.02|홍익대학교 컴퓨터공학과 졸업|
 |2022.03 ~ 2024.01|École 42 - [42Seoul](https://42seoul.kr/seoul42/main/view) Cadet|
 |2022.01 ~ 2022.09|칵테일 추천 어플리케이션 [오쥬](https://github.com/cocktail-Ohzu/Ohzu-FrontEnd) Web & App 프론트엔드|
 |2022.01 ~ 2022.03|홍익대학교 컴퓨터공학과 밴드학회 [고스락](https://github.com/Gosrock) 공연 티켓 예매 웹 서비스 [1차](https://github.com/Gosrock/Ticket-Backend-21th) 백엔드|
